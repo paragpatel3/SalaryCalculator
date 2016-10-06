@@ -1,0 +1,22 @@
+.table {
+    border-collapse: separate;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.btn {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+span {
+    padding-right: 15px;
+    
+}
+
+select, input {
+    margin-bottom: 5px;
+}
